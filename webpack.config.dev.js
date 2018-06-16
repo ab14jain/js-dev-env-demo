@@ -1,5 +1,5 @@
 import path from 'path';
-import HtmlWebpackPlugin from 'html-webpack-plugin';
+import HtmlWebpackPlugin from 'html-webpack-plugin'; // eslint-disable-line no-unused-vars
 
 export default {
   debug: true,
